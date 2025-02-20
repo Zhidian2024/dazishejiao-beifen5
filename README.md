@@ -28,5 +28,7 @@ APP、小程序、H5均支持
 ![extending-a-theme](/15.png)
 ![extending-a-theme](/16.png)
 ![extending-a-theme](/17.png)
-![extending-a-theme](/xiaomage.jpg)
+
+#### 有兴趣，加V，备注：来源和项目名称
+![extending-a-theme](/xiaomage.png)
 
